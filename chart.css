@@ -1,0 +1,8 @@
+#chart {
+    width: 700px;
+    height: 500px;
+    float: left;
+}
+#legend {
+    float: left;
+}

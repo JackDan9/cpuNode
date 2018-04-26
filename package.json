@@ -1,0 +1,21 @@
+{
+  "name": "cpunode",
+  "version": "1.0.0",
+  "description": "a better project for cpunode",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cpu",
+    "node"
+  ],
+  "author": "jackdan (1835812864@qq.com)",
+  "license": "MIT",
+  "dependencies": {
+    "chartjs": "^0.3.24",
+    "express": "^4.16.3",
+    "os-utils": "^0.0.14",
+    "socket.io": "^2.1.0"
+  }
+}

@@ -6,6 +6,7 @@
 ## SetUp
 
 ```
+
 # git clone
 git clone git@github.com:JackDan9/cpuNode.git
 
@@ -26,6 +27,7 @@ server is working!
 
 # in chrome/firefox/ie/opera
 http://localhost:8080
+
 ```
 
 ## Result Picture

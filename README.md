@@ -18,11 +18,14 @@ npm install
 # recommended install dependencies
 cnpm install (npm install -g cnpm --registry=https://registry.npm.taobao.org)
 
-# serve width not hot reload at localhost:8080
+# serve at localhost:8080
 node cpuLoadServer.js
 
 # success(console)
 server is working!
+
+# in chrome/firefox/ie/opera
+http://localhost:8080
 ```
 
 ## Result Picture

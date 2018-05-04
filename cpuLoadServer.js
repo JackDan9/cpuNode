@@ -25,7 +25,8 @@ io.sockets.on('connection', function () { //连接事件
                 totalMem: totalMem,
                 usedMem: totalMem - freeMem
             });
-        }, 10); // 每隔10毫秒取系统数据
+            // }, 10); // 每隔10毫秒取系统数据
+        }, 1000);// 每隔1秒获取系统数据
     }
 });
 

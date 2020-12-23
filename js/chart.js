@@ -56,7 +56,7 @@ $(function () {
                 title: 'Memory Utilization',
                 labelLocation: "outsideRight",
                 minimumValue: 0,
-                maximumValue: 8 * 1024 * 1024 * 1024,
+                maximumValue: 16 * 1024 * 1024 * 1024,
                 interval: 1024 * 1024 * 1024,
                 formatLabel: toDisplayMem,
                 majorStroke: "transparent",
